@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "142377867477",
+    "project_id": "agroo-app-bf327",
+    "storage_bucket": "agroo-app-bf327.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142377867477:android:7cba37c11d88a8ccf42a5c",
+        "android_client_info": {
+          "package_name": "agroo.user.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142377867477-vl379m616sr65cb8rordkr2dah84bg9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "agroo.user.shop",
+            "certificate_hash": "f4a544e0a2ea851bb3cc1768d3765e0d52a78387"
+          }
+        },
+        {
+          "client_id": "142377867477-mlsn8h9fed3vu7nns26koi4489jkj7g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBou-ofIQ02QdTyeaVV_ArZ3yB-5_BlaEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142377867477-mlsn8h9fed3vu7nns26koi4489jkj7g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
